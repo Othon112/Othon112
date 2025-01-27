@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Othón and I'm a current university student of Tecnológico de Monterrey from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Othón and I'm a B. S. in Computer Science and Technology at Tecnológico de Monterrey</h2>
 
 ###
 
